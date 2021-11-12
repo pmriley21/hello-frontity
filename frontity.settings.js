@@ -15,7 +15,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "http://wapfrontitysource-com.stackstaging.com",
+          "url": "https://wapfrontitysource-com.stackstaging.com",
           "homepage": "home",
           "postsPage": "blog"
         }
