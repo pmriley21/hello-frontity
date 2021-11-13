@@ -62,6 +62,7 @@ const Root = ({ state }) => {
                 <ul>
                     <li><Link link="/">Home</Link></li>
                     <li><Link link="/about/">About</Link></li>
+                    <li><Link link="/contact/">Contact</Link></li>
                     <li><Link link="/blog/">Blog</Link></li>
                 </ul>
             </nav>
